@@ -1,0 +1,69 @@
+﻿LoaiLech,GieoOBang,GieoOCot,TyLeApDung,SoDongAnhHuong,MoTa
+Danh muc khong day du (do nguoi nhap tay bo sot),Dim_PhanNhomKhachHang,MaKhachHang,0.1088,49,"Bang chi bao phu 89% tong so khach hang trong Dim_KhachHang vi phong kinh doanh tu cap nhat tay, khong dong bo tu dong."
+Ma lech dinh dang giua he thong,Dim_KhachHang,MaKhachHang,0.8508,380,"Ap dinh dang kieu 'sales' cho 380/450 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ten khach hang viet khac nhau,Dim_KhachHang,TenKhachHang,0.1749,70,"70/450 khach hang bi doi cach viet ten (HOA/thuong, bo dau, viet tat Cty/Cong ty...) — nguyen lieu cho bai gop khach hang."
+Ma vung viet tat khong dong nhat,Dim_KhachHang,Vung,0.1005,49,49/450 dong bi doi thanh bien the khong chuan cua cot 'Vung'. 
+Ngay lech dinh dang,Dim_KhachHang,NgayBatDauGiaoDich,0.0452,23,23/450 dong bi doi dinh dang ngay thanh yyyy-mm-dd hoac mm/dd/yyyy thay vi chuan dd/mm/yyyy.
+Gia tri thieu (NULL),Dim_KhachHang,MaKhachHang,0.0487,29,29/450 dong bi de trong o cot 'MaKhachHang'.
+"Ban ghi trung (cung giao dich, ma khac nhau)",Fact_DonHang,MaDonHang,0.0149,179,"Nhan ban 179 dong, GIU NGUYEN toan bo noi dung (khach/san pham/ngay/tien...) nhung gan 'MaDonHang' MOI (khac ma goc) -> mo phong nhap tay lai TU DAU cung 1 giao dich (he thong tu sinh ma moi moi lan nhap). Phai phat hien bang cach so sanh NOI DUNG, khong the GROUP BY 'MaDonHang'."
+Ma lech dinh dang giua he thong,Fact_DonHang,MaDonHang,0.7563,9176,"Ap dinh dang kieu 'sales' cho 9176/12179 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ma lech dinh dang giua he thong,Fact_DonHang,MaKhachHang,0.77,9374,"Ap dinh dang kieu 'sales' cho 9374/12179 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ma tham chieu khong ton tai (Orphan FK),Fact_DonHang,MaKhachHang,0.0213,278,278/12179 dong co 'MaKhachHang' tro toi ma khong ton tai trong bang danh muc goc.
+Gia tri thieu (NULL),Fact_DonHang,MaKhachHang,0.034,408,408/12179 dong bi de trong o cot 'MaKhachHang'.
+Ngay lech dinh dang,Fact_DonHang,NgayDatHang,0.0372,451,451/12179 dong bi doi dinh dang ngay thanh yyyy-mm-dd hoac mm/dd/yyyy thay vi chuan dd/mm/yyyy.
+Ten kenh ban viet tat khong dong nhat,Fact_DonHang,KenhBan,0.9068,5442,5442/12179 dong bi doi thanh bien the khong chuan cua cot 'KenhBan'. 
+Ma lech dinh dang giua he thong,Fact_DonHang,NhanVienBanHang,0.7153,8647,"Ap dinh dang kieu 'sales' cho 8647/12179 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Hai nguon gia khac nhau,Fact_ChiTietDonHang,GiaBanThucTe,0.2463,10758,2911/12000 DON HANG (khong phai dong) bi chon co chenh gia; tat ca 10758 dong chi tiet thuoc cac don do deu bi doi GiaBanThucTe lech so voi GiaNiemYet (khuyen mai hoac tu y tang gia). Dung muc DON dung sat chu de bai '20-25% don co chenh' hon la gieo rai rac tung dong doc lap.
+Ma lech dinh dang giua he thong,Fact_ChiTietDonHang,MaDonHang,0.7598,33677,"Ap dinh dang kieu 'sales' cho 33677/44303 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ma lech dinh dang giua he thong,Fact_ChiTietDonHang,MaSanPham,0.7711,34070,"Ap dinh dang kieu 'sales' cho 34070/44303 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ma tham chieu khong ton tai (Orphan FK),Fact_ChiTietDonHang,MaSanPham,0.0211,927,927/44303 dong co 'MaSanPham' tro toi ma khong ton tai trong bang danh muc goc.
+Gia tri thieu (NULL),Fact_ChiTietDonHang,MaSanPham,0.0448,1962,1962/44303 dong bi de trong o cot 'MaSanPham'.
+Ma lech dinh dang giua he thong,Dim_SanPham,MaSanPham,0.7781,177,"Ap dinh dang kieu 'kho' cho 177/220 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ten khach hang viet khac nhau,Dim_SanPham,TenSanPham,0.0888,18,"18/220 khach hang bi doi cach viet ten (HOA/thuong, bo dau, viet tat Cty/Cong ty...) — nguyen lieu cho bai gop khach hang."
+Don vi tinh khong thong nhat,Dim_SanPham,DonViTinh,0.22,35,"35/220 dong bi doi thanh bien the khong chuan cua cot 'DonViTinh'. Cung 1 nhom san pham cho ghi 'Thùng' cho ghi 'Hộp', hoac 'Kg' voi 'Tấn'."
+Gia tri bat thuong (GiaNiemYet = 0),Dim_SanPham,GiaNiemYet,0.0317,5,5/220 san pham bi ghi nham GiaNiemYet = 0.
+Gia tri thieu (NULL),Dim_SanPham,HanSuDungNgay,0.0404,6,6/220 dong bi de trong o cot 'HanSuDungNgay'.
+Ma lech dinh dang giua he thong,Dim_NhaCungCap,MaNhaCungCap,0.9287,43,"Ap dinh dang kieu 'kho' cho 43/45 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ten khach hang viet khac nhau,Dim_NhaCungCap,TenNhaCungCap,0.1007,4,"4/45 khach hang bi doi cach viet ten (HOA/thuong, bo dau, viet tat Cty/Cong ty...) — nguyen lieu cho bai gop khach hang."
+Ngay lech dinh dang,Dim_NhaCungCap,NgayHopTac,0.0381,2,2/45 dong bi doi dinh dang ngay thanh yyyy-mm-dd hoac mm/dd/yyyy thay vi chuan dd/mm/yyyy.
+Ma lech dinh dang giua he thong,Fact_NhapXuatTonKho,MaSanPham,0.8977,4708,"Ap dinh dang kieu 'kho' cho 4708/5280 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ma tham chieu khong ton tai (Orphan FK),Fact_NhapXuatTonKho,MaSanPham,0.0214,110,110/5280 dong co 'MaSanPham' tro toi ma khong ton tai trong bang danh muc goc.
+Gia tri thieu (NULL),Fact_NhapXuatTonKho,MaSanPham,0.0175,87,87/5280 dong bi de trong o cot 'MaSanPham'.
+Don vi tinh khong thong nhat (kg/tan lan lon),Fact_NhapXuatTonKho,TonDauKy/Nhap/Xuat/TonCuoiKy,0.0898,466,466/5280 dong bi nhan/chia 1000 do nhap lan don vi kg <-> tan.
+"Ban ghi trung (cung giao dich, ma khac nhau)",Fact_DonMuaHang,MaDonMuaHang,0.0162,56,"Nhan ban 56 dong, GIU NGUYEN toan bo noi dung (khach/san pham/ngay/tien...) nhung gan 'MaDonMuaHang' MOI (khac ma goc) -> mo phong nhap tay lai TU DAU cung 1 giao dich (he thong tu sinh ma moi moi lan nhap). Phai phat hien bang cach so sanh NOI DUNG, khong the GROUP BY 'MaDonMuaHang'."
+Ma lech dinh dang giua he thong,Fact_DonMuaHang,MaDonMuaHang,0.949,3370,"Ap dinh dang kieu 'kho' cho 3370/3556 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ma lech dinh dang giua he thong,Fact_DonMuaHang,MaNhaCungCap,0.7537,2688,"Ap dinh dang kieu 'kho' cho 2688/3556 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ma tham chieu khong ton tai (Orphan FK),Fact_DonMuaHang,MaNhaCungCap,0.0201,79,79/3556 dong co 'MaNhaCungCap' tro toi ma khong ton tai trong bang danh muc goc.
+Ma lech dinh dang giua he thong,Fact_DonMuaHang,MaSanPham,0.9002,3179,"Ap dinh dang kieu 'kho' cho 3179/3556 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ngay lech dinh dang,Fact_DonMuaHang,NgayDatHang,0.0504,184,184/3556 dong bi doi dinh dang ngay thanh yyyy-mm-dd hoac mm/dd/yyyy thay vi chuan dd/mm/yyyy.
+Gia tri thieu (NULL),Fact_DonMuaHang,MaSanPham,0.0373,120,120/3556 dong bi de trong o cot 'MaSanPham'.
+Ma lech dinh dang giua he thong,Fact_CongNoPhaiThu,MaHoaDon,0.7733,8718,"Ap dinh dang kieu 'ketoan' cho 8718/11294 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ma lech dinh dang giua he thong,Fact_CongNoPhaiThu,MaDonHang,0.9104,10298,"Ap dinh dang kieu 'ketoan' cho 10298/11294 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ma tham chieu khong ton tai (Orphan FK),Fact_CongNoPhaiThu,MaDonHang,0.0286,350,350/11294 dong co 'MaDonHang' tro toi ma khong ton tai trong bang danh muc goc.
+Ngay lech dinh dang,Fact_CongNoPhaiThu,NgayXuatHoaDon,0.0322,398,398/11294 dong bi doi dinh dang ngay thanh yyyy-mm-dd hoac mm/dd/yyyy thay vi chuan dd/mm/yyyy.
+Ngay lech dinh dang,Fact_CongNoPhaiThu,HanThanhToan,0.052,586,586/11294 dong bi doi dinh dang ngay thanh yyyy-mm-dd hoac mm/dd/yyyy thay vi chuan dd/mm/yyyy.
+Gia tri thieu (NULL),Fact_CongNoPhaiThu,MaDonHang,0.0434,490,490/11294 dong bi de trong o cot 'MaDonHang'.
+Ma lech dinh dang giua he thong,Fact_CongNoPhaiTra,MaCongNoPhaiTra,0.8581,2980,"Ap dinh dang kieu 'ketoan' cho 2980/3500 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ma lech dinh dang giua he thong,Fact_CongNoPhaiTra,MaDonMuaHang,0.7408,2562,"Ap dinh dang kieu 'ketoan' cho 2562/3500 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ma lech dinh dang giua he thong,Fact_CongNoPhaiTra,MaNhaCungCap,0.7966,2813,"Ap dinh dang kieu 'ketoan' cho 2813/3500 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ma tham chieu khong ton tai (Orphan FK),Fact_CongNoPhaiTra,MaNhaCungCap,0.0238,78,78/3500 dong co 'MaNhaCungCap' tro toi ma khong ton tai trong bang danh muc goc.
+Ngay lech dinh dang,Fact_CongNoPhaiTra,NgayHoaDon,0.0396,134,134/3500 dong bi doi dinh dang ngay thanh yyyy-mm-dd hoac mm/dd/yyyy thay vi chuan dd/mm/yyyy.
+Ngay lech dinh dang,Fact_ChiPhi,Thang,0.1407,17,17/168 dong bi doi dinh dang ngay thanh yyyy-mm-dd hoac mm/dd/yyyy thay vi chuan dd/mm/yyyy.
+Ma lech dinh dang giua he thong,Fact_ChiPhi,MaChiPhi,0.8926,147,"Ap dinh dang kieu 'ketoan' cho 147/168 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Gia tri thieu (NULL),Fact_ChiPhi,KhoanMuc,0.013,3,3/168 dong bi de trong o cot 'KhoanMuc'.
+Ma lech dinh dang giua he thong,Dim_GiaVon,MaSanPham,0.7221,160,"Ap dinh dang kieu 'ketoan' cho 160/220 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ma tham chieu khong ton tai (Orphan FK),Dim_GiaVon,MaSanPham,0.0243,5,5/220 dong co 'MaSanPham' tro toi ma khong ton tai trong bang danh muc goc.
+Ma lech dinh dang giua he thong,Dim_NhanVienSales,MaNhanVien,0.9477,27,"Ap dinh dang kieu 'excel' cho 27/30 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ten khach hang viet khac nhau,Dim_NhanVienSales,TenNhanVien,0.3212,14,"14/30 khach hang bi doi cach viet ten (HOA/thuong, bo dau, viet tat Cty/Cong ty...) — nguyen lieu cho bai gop khach hang."
+Ma vung viet tat khong dong nhat,Dim_NhanVienSales,KhuVucPhuTrach,0.2114,8,8/30 dong bi doi thanh bien the khong chuan cua cot 'KhuVucPhuTrach'. 
+Gia tri thieu (NULL),Dim_NhanVienSales,ChucVu,0.0397,1,1/30 dong bi de trong o cot 'ChucVu'.
+Ngay lech dinh dang,Dim_NhanVienSales,NgayVaoLam,0.1435,5,5/30 dong bi doi dinh dang ngay thanh yyyy-mm-dd hoac mm/dd/yyyy thay vi chuan dd/mm/yyyy.
+Ma lech dinh dang giua he thong,Fact_ChiTieuKeHoach,MaNhanVien,0.8806,618,"Ap dinh dang kieu 'excel' cho 618/720 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ma tham chieu khong ton tai (Orphan FK),Fact_ChiTieuKeHoach,MaNhanVien,0.029,17,17/720 dong co 'MaNhanVien' tro toi ma khong ton tai trong bang danh muc goc.
+Ma vung viet tat khong dong nhat,Fact_ChiTieuKeHoach,Vung,0.3356,229,229/720 dong bi doi thanh bien the khong chuan cua cot 'Vung'. 
+Ngay lech dinh dang,Fact_ChiTieuKeHoach,Thang,0.1352,117,"117/720 dong bi doi dinh dang thang (m/yyyy, 'Tháng m/yyyy', mon-yy)."
+Gia tri thieu (NULL),Fact_ChiTieuKeHoach,ChiTieuDoanhThu,0.025,17,17/720 dong bi de trong o cot 'ChiTieuDoanhThu'.
+Ma lech dinh dang giua he thong,Dim_PhanNhomKhachHang,MaKhachHang,0.9418,377,"Ap dinh dang kieu 'excel' cho 377/401 dong (vd Sales=KH0001, Excel=KH-0001, KeToan=kh0001)."
+Ten khach hang viet khac nhau,Dim_PhanNhomKhachHang,TenKhachHang,0.3107,163,"163/401 khach hang bi doi cach viet ten (HOA/thuong, bo dau, viet tat Cty/Cong ty...) — nguyen lieu cho bai gop khach hang."
+Gia tri thieu (NULL),Dim_PhanNhomKhachHang,NhomKH,0.0641,24,24/401 dong bi de trong o cot 'NhomKH'.
+Ban ghi trung (trung khoa nghiep vu),Dim_PhanNhomKhachHang,MaKhachHang,0.0315,12,"Nhan ban 12 dong, GIU NGUYEN 'MaKhachHang' goc (that su trung khoa) -> mo phong nguoi dung tu nhap Excel ghi trung 1 doi tuong nghiep vu 2 lan. Phat hien duoc ngay bang GROUP BY 'MaKhachHang'."

@@ -1,0 +1,221 @@
+﻿MaSanPham,TenSanPham,NhomHang,DonViTinh,GiaNiemYet,HanSuDungNgay
+SP0001,Muối tinh,Nguyên liệu đầu vào,Kg,38000.0,386.0
+SP0002,Hương liệu thực phẩm Cao cấp,Nguyên liệu đầu vào,Kg,33000.0,611.0
+SP0003,Đường tinh luyện Loại 1,Nguyên liệu đầu vào,Kg,59000.0,555.0
+SP0004,Nước ngọt có ga Cao cấp,Đồ uống,Thùng,224000.0,431.0
+SP0005,Nước tăng lực Thường,Đồ uống,Hộp,274000.0,522.0
+SP0006,Máy xay sinh tố Thường,Gia dụng,Cái,1160000.0,
+SP0007,Trà đóng chai Cao cấp,Đồ uống,Thùng,262000.0,410.0
+SP0008,Ấm siêu tốc Cao cấp,Gia dụng,Cái,1434000.0,
+SP0009,Bếp từ Loại 2,Gia dụng,Cái,521000.0,
+SP0010,Ấm siêu tốc Loại 1,Gia dụng,Chiếc,1008000.0,
+SP0011,Đường tinh luyện Loại 2,Nguyên liệu đầu vào,Kg,36000.0,616.0
+SP0012,Bánh quy hộp Loại 2,Thực phẩm chế biến,Hộp,210000.0,226.0
+SP0013,Nước ngọt có ga,Đồ uống,Hộp,136000.0,531.0
+SP0014,Bếp từ Loại 1,Gia dụng,Cái,763000.0,
+SP0015,Mì ăn liền cao cấp Loại 1,Thực phẩm chế biến,Thùng,119000.0,251.0
+SP0016,Ấm siêu tốc Cao cấp,Gia dụng,Chiếc,978000.0,
+SP0017,Hương liệu thực phẩm,Nguyên liệu đầu vào,kg,50000.0,568.0
+SP0018,Nồi cơm điện,Gia dụng,Cái,1029000.0,
+SP0019,Nước ngọt có ga Loại 1,Đồ uống,Hộp,197000.0,383.0
+SP0020,Snack khoai tây Loại 1,Thực phẩm chế biến,Thùng,125000.0,327.0
+SP0021,Bột mì Thường,Nguyên liệu đầu vào,Kg,46000.0,430.0
+SP0022,Ấm siêu tốc Thường,Gia dụng,Cái,1403000.0,
+SP0023,Nước ngọt có ga,Đồ uống,Hộp,0.0,297.0
+SP0024,Nước tăng lực Thường,Đồ uống,Hộp,104000.0,539.0
+SP0025,Đường tinh luyện Loại 2,Nguyên liệu đầu vào,Tấn,32000.0,581.0
+SP0026,Nước ngọt có ga Cao cấp,Đồ uống,Hộp,118000.0,514.0
+SP0027,Cà phê hòa tan Loại 1,Đồ uống,Hộp,93000.0,286.0
+SP0028,Nước tăng lực,Đồ uống,Hộp,200000.0,527.0
+SP0029,Trà đóng chai Thường,Đồ uống,Thùng,281000.0,447.0
+SP0030,Nồi cơm điện,Gia dụng,Chiếc,1105000.0,
+SP0031,Hương liệu thực phẩm Loại 1,Nguyên liệu đầu vào,Kg,52000.0,566.0
+SP0032,Mì ăn liền cao cấp Loại 1,Thực phẩm chế biến,Thùng,243000.0,355.0
+SP0033,Snack khoai tây Thường,Thực phẩm chế biến,Hộp,128000.0,224.0
+SP0034,Trà đóng chai,Đồ uống,Thùng,279000.0,504.0
+SP0035,Bếp từ Cao cấp,Gia dụng,Cái,1000000.0,
+SP0036,Trà đóng chai Cao cấp,Đồ uống,Hộp,274000.0,
+SP0037,Cà phê hòa tan Cao cấp,Đồ uống,Thùng,202000.0,535.0
+SP0038,Bếp từ Loại 1,Gia dụng,Cái,1190000.0,
+SP0039,Hương liệu thực phẩm Thường,Nguyên liệu đầu vào,Tấn,19000.0,600.0
+SP0040,Bánh quy hộp Thường,Thực phẩm chế biến,Thùng,258000.0,260.0
+SP0041,Máy xay sinh tố Loại 2,Gia dụng,Cái,1377000.0,
+SP0042,Snack khoai tây Loại 1,Thực phẩm chế biến,Hộp,226000.0,356.0
+SP0043,Nồi cơm điện Loại 1,Gia dụng,Cái,252000.0,
+SP0044,Ấm siêu tốc Loại 2,Gia dụng,Cái,1422000.0,
+SP0045,Nước ngọt có ga,Đồ uống,Hộp,232000.0,274.0
+SP0046,Bột mì Loại 1,Nguyên liệu đầu vào,Tấn,34000.0,371.0
+SP0047,Mì ăn liền cao cấp Loại 2,Thực phẩm chế biến,Thùng,194000.0,352.0
+SP0048,Muối tinh Cao cấp,Nguyên liệu đầu vào,Kg,54000.0,472.0
+SP0049,Nước tăng lực Thường,Đồ uống,Thùng,237000.0,464.0
+SP0050,Nồi cơm điện Loại 1,Gia dụng,Cái,786000.0,
+SP0051,Bánh quy hộp Loại 1,Thực phẩm chế biến,Hộp,333000.0,328.0
+SP0052,Dầu ăn công nghiệp Cao cấp,Nguyên liệu đầu vào,Kg,37000.0,416.0
+SP0053,Mì ăn liền cao cấp Thường,Thực phẩm chế biến,Hộp,288000.0,263.0
+SP0054,Snack khoai tây Loại 1,Thực phẩm chế biến,Hộp,175000.0,272.0
+SP0055,Snack khoai tây Loại 1,Thực phẩm chế biến,Thùng,297000.0,336.0
+SP0056,Đường tinh luyện Loại 2,Nguyên liệu đầu vào,Kg,56000.0,497.0
+SP0057,Mì ăn liền cao cấp Cao cấp,Thực phẩm chế biến,Thùng,306000.0,227.0
+SP0058,Muối tinh,Nguyên liệu đầu vào,Tấn,41000.0,645.0
+SP0059,Máy xay sinh tố Loại 1,Gia dụng,Cái,782000.0,
+SP0060,Dầu ăn công nghiệp Cao cấp,Nguyên liệu đầu vào,Tấn,26000.0,
+SP0061,Trà đóng chai Loại 1,Đồ uống,Thùng,251000.0,391.0
+SP0062,Xúc xích tiệt trùng Thường,Thực phẩm chế biến,Hộp,326000.0,248.0
+SP0063,Cà phê hòa tan Cao cấp,Đồ uống,Thùng,108000.0,511.0
+SP0064,Cà phê hòa tan Thường,Đồ uống,Hộp,216000.0,445.0
+SP0065,Ấm siêu tốc Loại 2,Gia dụng,Cái,930000.0,
+SP0066,Nồi cơm điện Loại 2,Gia dụng,Cái,572000.0,
+SP0067,Bột mì Loại 2,Nguyên liệu đầu vào,Kg,15000.0,552.0
+SP0068,Bột mì Thường,Nguyên liệu đầu vào,Kg,48000.0,459.0
+SP0069,Nước sốt đóng chai Thường,Thực phẩm chế biến,Thùng,82000.0,307.0
+SP0070,Cà phê hòa tan Loại 2,Đồ uống,Thùng,200000.0,487.0
+SP0071,Ấm siêu tốc Cao cấp,Gia dụng,Chiếc,900000.0,
+SP0072,Nồi cơm điện Loại 2,Gia dụng,Cái,719000.0,
+SP0073,Xúc xích tiệt trùng Thường,Thực phẩm chế biến,thùng,135000.0,233.0
+SP0074,Nồi cơm điện Thường,Gia dụng,Chiếc,1255000.0,
+SP0075,Cà phê hòa tan Loại 1,Đồ uống,Thùng,176000.0,484.0
+SP0076,Nước ngọt có ga Cao cấp,Đồ uống,Hộp,112000.0,460.0
+SP0077,Mì ăn liền cao cấp Loại 1,Thực phẩm chế biến,Hộp,195000.0,
+SP0078,Trà đóng chai Cao cấp,Đồ uống,Hộp,213000.0,475.0
+SP0079,Hương liệu thực phẩm,Nguyên liệu đầu vào,Kg,27000.0,508.0
+SP0080,Nước ngọt có ga Thường,Đồ uống,Hộp,203000.0,500.0
+SP0081,Đường tinh luyện Thường,Nguyên liệu đầu vào,Tấn,40000.0,457.0
+SP0082,Máy xay sinh tố Thường,Gia dụng,Cái,1015000.0,
+SP0083,Đường tinh luyện,Nguyên liệu đầu vào,Tấn,60000.0,657.0
+SP0084,Nước sốt đóng chai Loại 1,Thực phẩm chế biến,Hộp,187000.0,213.0
+SP0085,Snack khoai tây Loại 2,Thực phẩm chế biến,Hộp,135000.0,327.0
+SP0086,Nước sốt đóng chai Thường,Thực phẩm chế biến,Thùng,229000.0,355.0
+SP0087,Xúc xích tiệt trùng Loại 2,Thực phẩm chế biến,Thùng,231000.0,238.0
+SP0088,Snack khoai tây Thường,Thực phẩm chế biến,Thùng,128000.0,205.0
+SP0089,Nước tăng lực Loại 2,Đồ uống,Hộp,207000.0,408.0
+SP0090,Máy xay sinh tố Cao cấp,Gia dụng,Cái,855000.0,
+SP0091,Bột mì,Nguyên liệu đầu vào,kg,59000.0,485.0
+SP0092,Đường tinh luyện,Nguyên liệu đầu vào,Tấn,41000.0,649.0
+SP0093,Ấm siêu tốc Thường,Gia dụng,cái,1218000.0,
+SP0094,Bánh quy hộp Loại 1,Thực phẩm chế biến,Hộp,187000.0,290.0
+SP0095,Xúc xích tiệt trùng  Thường,Thực phẩm chế biến,Hộp,117000.0,277.0
+SP0096,Hương liệu thực phẩm Thường,Nguyên liệu đầu vào,Tấn,54000.0,465.0
+SP0097,Snack khoai tây Thường,Thực phẩm chế biến,Thùng,112000.0,217.0
+SP0098,Cà phê hòa tan Cao cấp,Đồ uống,Hộp,138000.0,346.0
+SP0099,Nước ngọt có ga Thường,Đồ uống,Hộp,254000.0,512.0
+SP0100,Nước ngọt có ga Loại 1,Đồ uống,Hộp,289000.0,274.0
+SP0101,Ấm siêu tốc Thường,Gia dụng,Cái,375000.0,
+SP0102,Nồi cơm điện,Gia dụng,cái,885000.0,
+SP0103,Nước ngọt có ga Loại 1,Đồ uống,Hộp,255000.0,360.0
+SP0104,Máy xay sinh tố,Gia dụng,Cái,1251000.0,
+SP0105,trà đóng chai thường,Đồ uống,thùng,219000.0,485.0
+SP0106,Mì ăn liền cao cấp Cao cấp,Thực phẩm chế biến,Hộp,265000.0,307.0
+SP0107,Nồi cơm điện Loại 2,Gia dụng,Cái,315000.0,
+SP0108,Cà phê hòa tan Cao cấp,Đồ uống,Hộp,172000.0,338.0
+SP0109,Ấm siêu tốc Cao cấp,Gia dụng,Cái,1045000.0,
+SP0110,Muối tinh Loại 1,Nguyên liệu đầu vào,Tấn,51000.0,687.0
+SP0111,Bột mì Loại 2,Nguyên liệu đầu vào,Tấn,52000.0,629.0
+SP0112,Nước ngọt có ga Cao cấp,Đồ uống,Hộp,189000.0,431.0
+SP0113,Nước tăng lực Cao cấp,Đồ uống,Hộp,216000.0,519.0
+SP0114,Nước tăng lực Loại 1,Đồ uống,Hộp,109000.0,423.0
+SP0115,Bột mì Loại 2,Nguyên liệu đầu vào,Tấn,27000.0,493.0
+SP0116,Ấm siêu tốc Loại 2,Gia dụng,Cái,714000.0,
+SP0117,Muối tinh Loại 1,Nguyên liệu đầu vào,Kg,42000.0,652.0
+SP0118,Nước tăng lực,Đồ uống,Thùng,242000.0,294.0
+SP0119,Trà đóng chai Loại 2,Đồ uống,Hộp,285000.0,473.0
+SP0120,Nước ngọt có ga Thường,Đồ uống,Hộp,174000.0,320.0
+SP0121,Trà đóng chai Thường,Đồ uống,Thùng,0.0,353.0
+SP0122,trà đóng chai cao cấp,Đồ uống,Thùng,150000.0,300.0
+SP0123,Nước ngọt có ga Thường,Đồ uống,Hộp,292000.0,380.0
+SP0124,SNACK KHOAI TAY,Thực phẩm chế biến,Thùng,96000.0,245.0
+SP0125,Snack khoai tây Thường,Thực phẩm chế biến,Thùng,289000.0,301.0
+SP0126,Xúc xích tiệt trùng,Thực phẩm chế biến,Hộp,127000.0,341.0
+SP0127,Hương liệu thực phẩm Loại 2,Nguyên liệu đầu vào,Kg,37000.0,414.0
+SP0128,Ấm siêu tốc Loại 1,Gia dụng,Cái,263000.0,
+SP0129,Nước ngọt có ga,Đồ uống,Thùng,269000.0,500.0
+SP0130,Xúc xích tiệt trùng,Thực phẩm chế biến,Thùng,331000.0,265.0
+SP0131,Muối tinh,Nguyên liệu đầu vào,Tấn,38000.0,498.0
+SP0132,Bếp từ,Gia dụng,cái,493000.0,
+SP0133,Trà đóng chai Loại 2,Đồ uống,thùng,255000.0,454.0
+SP0134,Nước ngọt có ga Thường,Đồ uống,Hộp,197000.0,454.0
+SP0135,Máy xay sinh tố,Gia dụng,Chiếc,1123000.0,
+SP0136,Ấm siêu tốc Thường,Gia dụng,Cái,1019000.0,
+SP0137,Bếp từ Cao cấp,Gia dụng,cái,1093000.0,
+SP0138,Muối tinh Cao cấp,Nguyên liệu đầu vào,Kg,31000.0,651.0
+SP0139,Mì ăn liền cao cấp Thường,Thực phẩm chế biến,Hộp,257000.0,322.0
+SP0140,Trà đóng chai Loại 2,Đồ uống,Thùng,295000.0,401.0
+SP0141,Xúc xích tiệt trùng,Thực phẩm chế biến,Hộp,103000.0,268.0
+SP0142,Máy xay sinh tố,Gia dụng,Cái,595000.0,
+SP0143,Nước tăng lực,Đồ uống,thùng,0.0,280.0
+SP0144,Trà đóng chai Loại 2,Đồ uống,thùng,231000.0,480.0
+SP0145,Bánh quy hộp,Thực phẩm chế biến,Thùng,189000.0,211.0
+SP0146,Mì ăn liền cao cấp Cao cấp,Thực phẩm chế biến,Thùng,134000.0,269.0
+SP0147,Trà đóng chai Loại 2,Đồ uống,Hộp,0.0,371.0
+SP0148,Hương liệu thực phẩm,Nguyên liệu đầu vào,Kg,47000.0,660.0
+SP0149,Máy xay sinh tố Loại 1,Gia dụng,Cái,1399000.0,
+SP0150,Mì ăn liền cao cấp,Thực phẩm chế biến,Thùng,228000.0,327.0
+SP0151,Cà phê hòa tan,Đồ uống,Hộp,242000.0,
+SP0152,Nước sốt đóng chai Thường,Thực phẩm chế biến,Hộp,231000.0,252.0
+SP0153,Nước tăng lực Thường,Đồ uống,Thùng,212000.0,451.0
+SP0154,Bột mì,Nguyên liệu đầu vào,Kg,31000.0,531.0
+SP0155,Snack khoai tây Loại 1,Thực phẩm chế biến,Hộp,300000.0,352.0
+SP0156,Cà phê hòa tan Loại 2,Đồ uống,thùng,0.0,531.0
+SP0157,Snack khoai tây Loại 1,Thực phẩm chế biến,Thùng,340000.0,304.0
+SP0158,Trà đóng chai Cao cấp,Đồ uống,Hộp,185000.0,498.0
+SP0159,Bếp từ Cao cấp,Gia dụng,Cái,755000.0,
+SP0160,Nước tăng lực Loại 2,Đồ uống,Thùng,91000.0,310.0
+SP0161,nước ngọt có ga cao cấp,Đồ uống,Thùng,127000.0,465.0
+SP0162,Trà đóng chai,Đồ uống,Thùng,196000.0,416.0
+SP0163,Nước ngọt có ga Cao cấp,Đồ uống,Hộp,207000.0,507.0
+SP0164,Ấm siêu tốc Loại 1,Gia dụng,Cái,879000.0,
+SP0165,Hương liệu thực phẩm,Nguyên liệu đầu vào,Tấn,30000.0,688.0
+SP0166,Bếp từ,Gia dụng,Chiếc,396000.0,
+SP0167,Muối tinh Loại 2,Nguyên liệu đầu vào,kg,38000.0,439.0
+SP0168,Hương liệu thực phẩm Cao cấp,Nguyên liệu đầu vào,Tấn,27000.0,450.0
+SP0169,nồi cơm điện thường,Gia dụng,Cái,922000.0,
+SP0170,Xúc xích tiệt trùng Thường,Thực phẩm chế biến,Thùng,294000.0,343.0
+SP0171,Dầu ăn công nghiệp,Nguyên liệu đầu vào,Tấn,26000.0,537.0
+SP0172,Nồi cơm điện Loại 1,Gia dụng,Cái,803000.0,
+SP0173,Nước tăng lực Loại 2,Đồ uống,Thùng,169000.0,485.0
+SP0174,Ấm siêu tốc Loại 2,Gia dụng,Cái,855000.0,
+SP0175,dầu ăn công nghiệp,Nguyên liệu đầu vào,Tấn,26000.0,688.0
+SP0176,Nước sốt đóng chai,Thực phẩm chế biến,Hộp,172000.0,336.0
+SP0177,Bánh quy hộp Loại 2,Thực phẩm chế biến,Thùng,289000.0,326.0
+SP0178,Mì ăn liền cao cấp Thường,Thực phẩm chế biến,Hộp,264000.0,283.0
+SP0179,Trà đóng chai Loại 1,Đồ uống,Hộp,278000.0,306.0
+SP0180,Bếp từ Loại 2,Gia dụng,Cái,1328000.0,
+SP0181,Nồi cơm điện Thường,Gia dụng,Cái,852000.0,
+SP0182,Snack khoai tây Thường,Thực phẩm chế biến,Hộp,150000.0,
+SP0183,Nước tăng lực,Đồ uống,Hộp,170000.0,352.0
+SP0184,Mì ăn liền cao cấp Loại 2,Thực phẩm chế biến,Hộp,293000.0,267.0
+SP0185,Đường tinh luyện,Nguyên liệu đầu vào,Tấn,25000.0,481.0
+SP0186,Máy xay sinh tố Loại 1,Gia dụng,Cái,1126000.0,
+SP0187,Nước tăng lực Thường,Đồ uống,Thùng,258000.0,430.0
+SP0188,Bánh quy hộp Loại 1,Thực phẩm chế biến,Hộp,191000.0,261.0
+SP0189,Trà đóng chai Cao cấp,Đồ uống,Thùng,164000.0,419.0
+SP0190,Hương liệu thực phẩm Loại 1,Nguyên liệu đầu vào,Kg,39000.0,728.0
+SP0191,Hương liệu thực phẩm Cao cấp,Nguyên liệu đầu vào,Kg,47000.0,501.0
+SP0192,Ấm siêu tốc,Gia dụng,Cái,579000.0,
+SP0193,Nước tăng lực Loại 1,Đồ uống,Thùng,150000.0,472.0
+SP0194,Mì ăn liền cao cấp,Thực phẩm chế biến,Thùng,188000.0,249.0
+SP0195,Bánh quy hộp Loại 2,Thực phẩm chế biến,Hộp,282000.0,293.0
+SP0196,Nước sốt đóng chai Loại 1,Thực phẩm chế biến,Hộp,172000.0,272.0
+SP0197,Bếp từ Thường,Gia dụng,Chiếc,943000.0,
+SP0198,Hương liệu thực phẩm,Nguyên liệu đầu vào,Kg,23000.0,665.0
+SP0199,Xúc xích tiệt trùng Loại 1,Thực phẩm chế biến,Thùng,165000.0,313.0
+SP0200,Máy xay sinh tố Loại 2,Gia dụng,Cái,523000.0,
+SP0201,Bếp từ Cao cấp,Gia dụng,Cái,967000.0,
+SP0202,Máy xay sinh tố Cao cấp,Gia dụng,cái,478000.0,
+SP0203,Máy xay sinh tố Loại 2,Gia dụng,Cái,1183000.0,
+SP0204,Ấm siêu tốc,Gia dụng,Cái,1413000.0,
+SP0205,Nồi cơm điện Loại 1,Gia dụng,Cái,488000.0,
+SP0206,Dầu ăn công nghiệp Thường,Nguyên liệu đầu vào,Kg,48000.0,595.0
+SP0207,Đường tinh luyện,Nguyên liệu đầu vào,Kg,26000.0,576.0
+SP0208,Nước sốt đóng chai Loại 2,Thực phẩm chế biến,Hộp,145000.0,222.0
+SP0209,Nước ngọt có ga Cao cấp,Đồ uống,Thùng,146000.0,364.0
+SP0210,MUOI TINH LOAI 1,Nguyên liệu đầu vào,Kg,25000.0,376.0
+SP0211,Cà phê hòa tan Cao cấp,Đồ uống,Thùng,265000.0,334.0
+SP0212,Nước sốt đóng chai Cao cấp,Thực phẩm chế biến,Thùng,306000.0,240.0
+SP0213,Bột mì,Nguyên liệu đầu vào,Kg,31000.0,703.0
+SP0214,Dầu ăn công nghiệp,Nguyên liệu đầu vào,Kg,50000.0,493.0
+SP0215,Nước sốt đóng chai Thường,Thực phẩm chế biến,thùng,112000.0,359.0
+SP0216,Xúc xích tiệt trùng Loại 1,Thực phẩm chế biến,Hộp,101000.0,200.0
+SP0217,Nước tăng lực Loại 2,Đồ uống,Thùng,291000.0,377.0
+SP0218,Nước tăng lực,Đồ uống,Thùng,193000.0,355.0
+SP0219,Snack khoai tây Loại 1,Thực phẩm chế biến,Hộp,82000.0,281.0
+SP0220,đường tinh luyện,Nguyên liệu đầu vào,Tấn,54000.0,
