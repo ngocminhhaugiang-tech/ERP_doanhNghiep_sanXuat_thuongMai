@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 config.py — Cau hinh chung cho toan bo du an sinh du lieu HPT.
-Moi con so / danh muc dung chung deu nam o day, KHONG hardcode ranh o noi khac.
 """
 import random
 import numpy as np
