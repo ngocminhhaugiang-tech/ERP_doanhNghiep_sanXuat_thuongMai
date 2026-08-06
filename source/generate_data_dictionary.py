@@ -2,11 +2,6 @@
 """
 generate_data_dictionary.py — PHAN 5 (de bai tuan 2): Data Dictionary
 
-File nay TRUOC DAY BI THIEU trong repo (main.py co dong
-`from generate_data_dictionary import build_data_dictionary, DICTIONARY_METADATA`
-nhung khong co file nao dinh nghia no) -> day la nguyen nhan chinh khien
-`python main.py` bao loi ModuleNotFoundError va khong chay duoc.
-
 Noi dung: khai bao metadata cho TUNG COT cua TUNG BANG (dung format de bai
 yeu cau o PHAN 5: "tên cột, kiểu dữ liệu, ý nghĩa nghiệp vụ, giá trị hợp lệ,
 thuộc hệ thống nguồn nào, và khóa nối sang bảng nào"), roi gop lai thanh 1
