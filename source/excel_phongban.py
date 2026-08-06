@@ -2,7 +2,6 @@
 """
 excel_phongban.py — PHAN 4: File Excel do phong ban tu nhap
 Bang: Fact_ChiTieuKeHoach, Dim_NhanVienSales, Dim_PhanNhomKhachHang
-Day la nguon "ban" nhat theo de bai -> ty le loi ap dung CAO HON cac phan khac.
 """
 import random
 import numpy as np
